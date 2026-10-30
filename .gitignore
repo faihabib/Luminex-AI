@@ -40,3 +40,8 @@ captures/
 
 # Kotlin
 .kotlinkeystore.properties
+
+# Security Keys
+*.keystore
+keystore.properties
+*.bak
