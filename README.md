@@ -15,6 +15,15 @@
 
 **Luminex AI** is a unified, fast, tab-based Android browser that wraps leading AI web interfaces into a single app. Typed text, chat history, and scroll positions are preserved across switches, meaning you never lose your place, your text, or your flow between models.
 
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="screenshots/choose-ai.png" width="250" alt="Choose AI" />
+  <img src="screenshots/chat.png" width="250" alt="Chat Interface" />
+  <img src="screenshots/settings.png" width="250" alt="Settings" />
+</div>
+
 ## 🤖 Supported AI Sites
 
 Luminex currently wraps **13 AI websites** into a seamless native experience:
